@@ -1,0 +1,21 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+#maroon {
+  background-color: maroon;
+  width: 1900px;
+  height: 1000px;
+}
+#blue {
+  background-color: midnightblue;
+  width: 1900px;
+  height: 1000px;
+}
